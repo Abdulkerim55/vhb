@@ -22,3 +22,16 @@ body {
 
 /* Start Style from here */
 
+/*section 3 and 4 style*/
+#features,
+#building{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-bottom: 0.5px solid rgb(219, 217, 217);
+}
+
+#building{
+    background: url(/resources/img/img_building.jpg);
+    color:white;
+}
